@@ -70,7 +70,7 @@ const std::map<std::string, PCSX::System::LocaleInfo> PCSX::System::LOCALES = {
         {"mt.po", {}, c_malteseRanges},
     },
     {
-        "Português (Brasil)",
+        "Português Brasileiro",
         {"pt_BR.po", {}, nullptr},
     },
 };
